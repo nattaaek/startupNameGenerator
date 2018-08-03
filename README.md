@@ -1,6 +1,6 @@
-# edudy
+# startupNameGenerator
 
-education platform
+generator platform
 
 ## Getting Started
 
